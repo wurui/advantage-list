@@ -2,9 +2,20 @@
     <xsl:template match="/root" name="wurui.advantage-list">
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-advantage-list" ox-mod="advantage-list">
-            <h1>
-                This is mod advantage-list;
-            </h1>
+            <xsl:for-each select="data/ui-entry/i">
+            	<span class="item">
+            		<a href="{href}">
+	            		<img class="icon" src="http://a.oxm1.cc/img/blank.png" style="background-image:url({icon})"/>
+
+	            		<b class="title">
+	            			<xsl:value-of select="title" />
+	            		</b>
+	            		<span class="subtitle">
+	            			<xsl:value-of select="subtitle" />
+	            		</span>
+	            	</a>
+            	</span>
+            </xsl:for-each>
         </div>
     </xsl:template>
 </xsl:stylesheet>

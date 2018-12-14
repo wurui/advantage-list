@@ -17,26 +17,42 @@
     <data>
         <ui-entry>
             <i>
-                <title>问题反馈</title>
+                <title>手续简单</title>
                 <href></href>
-                <subtitle></subtitle>
-                <icon></icon>
+                <subtitle>极速办理，仅需要一卡，免抵押免担保，最快30分钟完成审核免去漫长等“贷”</subtitle>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29totdh2sTjpnjo4n0Rjzg9Am9x-1000.png</icon>
                 <bg></bg>
             </i>
             <i>
-                <title>商务合作</title>
+                <title>超低首付</title>
                 <href></href>
-                <subtitle></subtitle>
-                <icon></icon>
+                <subtitle>首付只需要1成以上，租期12－36期任意选项</subtitle>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29totdgf2Tjpnjo5aqR92p8Anyl-1000.png</icon>
                 <bg></bg>
             </i>
             <i>
-                <title>关于我们</title>
+                <title>随机红包返现</title>
                 <href></href>
-                <subtitle></subtitle>
-                <icon></icon>
+                <subtitle>仅需要一卡，免抵押免担保，最快30分钟完成审核免去漫长等“贷”</subtitle>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29totdf07Tjpnjo6plRn6jqAn05-1000.png</icon>
                 <bg></bg>
             </i>
+            <i>
+                <title>24小时客服</title>
+                <subtitle>首付只需要1成以上，租期12－36期任意选项</subtitle>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29totdej8Tjpnjo76kR0j80Anxt-1000.png</icon>
+            </i>
+            <i>
+                <title>实体店保障</title>
+                <subtitle>仅需要一卡，免抵押免担保，最快30分钟完成审核免去漫长等“贷”</subtitle>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29totde4vTjpnjo7kxR013oAmg8-1000.png</icon>
+            </i>
+            <i>
+                <title>优惠券</title>
+                <subtitle>首付只需要1成以上，租期12－36期任意选项</subtitle>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29totddm6Tjpnjo83mRb0mpAozh-1000.png</icon>
+            </i>
+
         </ui-entry>
     </data>
 </root>
